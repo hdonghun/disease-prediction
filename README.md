@@ -4,11 +4,13 @@
 </h2>
 
 <h4>✨노션</<h4>
+  
 NOTION - https://www.notion.so/6d42ba35c01243348ed9a3a9be9b6e0a
 
 <h4>✨프로젝트 PPT</<h4>
 
-  <img width="1580" alt="image" src="https://github.com/hdonghun/disease-prediction/assets/67058000/ecb0ccad-c26c-43db-9358-40555df7d91b">
+
+<img width="1580" alt="image" src="https://github.com/hdonghun/disease-prediction/assets/67058000/ecb0ccad-c26c-43db-9358-40555df7d91b">
 <img width="1577" alt="image" src="https://github.com/hdonghun/disease-prediction/assets/67058000/f208ecdd-fdfa-4273-9166-8006f43e17ed">
 <img width="1577" alt="image" src="https://github.com/hdonghun/disease-prediction/assets/67058000/04368a33-de68-4b4a-b655-f66ae55b70d1">
 <img width="1576" alt="image" src="https://github.com/hdonghun/disease-prediction/assets/67058000/4d0d7ae0-8779-40f8-98a7-d96e1493a61a">
