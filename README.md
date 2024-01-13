@@ -28,6 +28,7 @@ NOTION - https://www.notion.so/6d42ba35c01243348ed9a3a9be9b6e0a
 <img width="1579" alt="image" src="https://github.com/hdonghun/disease-prediction/assets/67058000/a57cbffe-df74-47e0-96b6-8818740e5739">
 <img width="1576" alt="image" src="https://github.com/hdonghun/disease-prediction/assets/67058000/1c323517-58a0-474c-9d29-c4ba8ee00ce6">
 <img width="1579" alt="image" src="https://github.com/hdonghun/disease-prediction/assets/67058000/6647fdda-d883-4942-8e00-05ba9c446958">
+<시연 영상> https://github.com/hdonghun/disease-prediction/assets/67058000/da3aea67-5e0d-44d0-b323-b0bb49315385
 <img width="1580" alt="image" src="https://github.com/hdonghun/disease-prediction/assets/67058000/d6279ee8-94a7-42b1-aecb-5f2cedb339a4">
 <img width="1577" alt="image" src="https://github.com/hdonghun/disease-prediction/assets/67058000/e08eaecf-d99d-4564-9d0a-18050075fbe4">
 <img width="1579" alt="image" src="https://github.com/hdonghun/disease-prediction/assets/67058000/9bd44c32-e831-4671-bc3b-f91beaba7068">
