@@ -3,28 +3,28 @@
   <h4> 자연어 인식 프로젝트 </h4>
 </h2>
 
-<h3>✨서비스 소개</h3>
+<h4>✨서비스 소개</h4>
 
 **문제 정의 및 목표 설정**:
     - 서비스 기획의 첫 번째 단계는 어떤 문제를 해결하고자 하는지 명확하게 정의하는 것입니다. → 해외 거주하는 재외동포들의 효율적이고/편리한 진료 서비스를 위해서.
     - 비대면 진료 희망하는 사람 + 진료에 대한 인프라가 부족한 곳에 있으신 분들(해외나 시골에 있어서) 위한 비대면 진료 서비스
   
 
-<h3>✨노션</<h3>
+<h4>✨노션</<h4>
   
 NOTION - https://www.notion.so/6d42ba35c01243348ed9a3a9be9b6e0a
 
 
-<h3>✨기술 스택</h3>
+<h4>✨기술 스택</h4>
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-<h3>✨툴</h3>
+<h4>✨툴</h4>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"><img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 
 
-<h3>✨프로젝트 PPT</<h3>
+<h4>✨프로젝트 PPT</<h4>
 <details>
 <summary>PPT</summary>
 <img width="1580" alt="image" src="https://github.com/hdonghun/disease-prediction/assets/67058000/ecb0ccad-c26c-43db-9358-40555df7d91b">
