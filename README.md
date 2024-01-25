@@ -3,24 +3,24 @@
   <h4> 자연어 인식 프로젝트 </h4>
 </h2>
 
-<h2>✨서비스 소개</h2>
+<h3>✨서비스 소개</h3>
 
 
-<h4>✨노션</<h4>
+<h3>✨노션</<h3>
   
 NOTION - https://www.notion.so/6d42ba35c01243348ed9a3a9be9b6e0a
 
 
-<h2>✨기술 스택</h2>
+<h3>✨기술 스택</h3>
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-<h2>✨툴</h2>
+<h3>✨툴</h3>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"><img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 
 
-<h4>✨프로젝트 PPT</<h4>
+<h3>✨프로젝트 PPT</<h3>
 <details>
 <summary>PPT</summary>
 <img width="1580" alt="image" src="https://github.com/hdonghun/disease-prediction/assets/67058000/ecb0ccad-c26c-43db-9358-40555df7d91b">
