@@ -25,6 +25,7 @@ NOTION - https://www.notion.so/6d42ba35c01243348ed9a3a9be9b6e0a
 
 
 <h4>✨프로젝트 PPT</<h4>
+  
 <details>
 <summary>PPT</summary>
 <img width="1580" alt="image" src="https://github.com/hdonghun/disease-prediction/assets/67058000/ecb0ccad-c26c-43db-9358-40555df7d91b">
