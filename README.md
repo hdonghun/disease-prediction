@@ -15,6 +15,7 @@
 NOTION - https://www.notion.so/6d42ba35c01243348ed9a3a9be9b6e0a
 
 
+
 <h4>✨기술 스택</h4>
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
